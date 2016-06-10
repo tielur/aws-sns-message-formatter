@@ -5,16 +5,16 @@ A small library providing utility methods to format AWS SNS Messages, specifical
 
 ## Installation
 
-  npm install aws-sns-message-formatter --save
+  `npm install aws-sns-message-formatter --save`
 
 ## Usage
-
+  ```js
   var snsMessageFormatter = require('aws-sns-message-formatter')
-
+  ```
 
 ## Tests
 
-  npm test
+  `npm test`
 
 ## Contributing
 
