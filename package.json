@@ -1,0 +1,34 @@
+{
+  "name": "aws-sns-message-formatter",
+  "version": "0.1.0",
+  "description": "A small library providing utility methods to format AWS SNS Messages, specifically for mobile push notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tielur/aws-sns-message-formatter.git"
+  },
+  "keywords": [
+    "aws",
+    "sns",
+    "platform endpoint",
+    "message"
+  ],
+  "author": "Tyler Clemens <tyler.r.clemens@gmail.com> (https://github.com/tielur)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tielur/aws-sns-message-formatter/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/tielur/aws-sns-message-formatter/issues"
+  },
+  "homepage": "https://github.com/tielur/aws-sns-message-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
